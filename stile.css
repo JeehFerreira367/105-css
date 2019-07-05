@@ -1,0 +1,33 @@
+body{
+    background-image: url(60206049_2349030322012637_8501083843338436608_n.jpg);
+    background-size: cover;
+    background-image: 
+}
+
+input {
+    margin-left: 30px;
+    color: black;
+    background-color: white;
+
+}
+
+h1{ 
+    font-size: 70px;
+}
+
+p{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    color: black;
+}
+
+::placeholder{
+    color: black;
+}
+
